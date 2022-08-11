@@ -63,7 +63,7 @@ msgid "%{count} day ago"
 msgid_plural "%{count} days ago"
 msgstr[0] "prieš %{count} dieną"
 msgstr[1] "prieš %{count} dienas"
-msgstr[2] "prieš %{count} dienas"
+msgstr[2] "prieš %{count} dienų"
 
 #: lib/l10n/translator.ex:361
 msgid "%{count} hour ago"

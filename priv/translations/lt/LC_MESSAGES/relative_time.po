@@ -1,0 +1,245 @@
+# # `msgid`s in this file come from POT (.pot) files.
+# #
+# # Do not add, change, or remove `msgid`s manually here as
+# # they're tied to the ones in the corresponding POT file
+# # (with the same domain).
+# #
+# # Use `mix gettext.extract --merge` or `mix gettext.merge`
+# # to merge POT files into PO files.
+msgid ""
+msgstr ""
+"Language: lv\n"
+
+#: lib/l10n/translator.ex:320
+msgid "last month"
+msgstr "praeitą mėnesį"
+
+#: lib/l10n/translator.ex:326
+msgid "last week"
+msgstr "praeitą savaitę"
+
+#: lib/l10n/translator.ex:314
+msgid "last year"
+msgstr "praeitais metais"
+
+#: lib/l10n/translator.ex:322
+msgid "next month"
+msgstr "kitą mėnesį"
+
+#: lib/l10n/translator.ex:328
+msgid "next week"
+msgstr "kitą savaitę"
+
+#: lib/l10n/translator.ex:316
+msgid "next year"
+msgstr "kitais metais"
+
+#: lib/l10n/translator.ex:321
+msgid "this month"
+msgstr "šį mėnesį"
+
+#: lib/l10n/translator.ex:327
+msgid "this week"
+msgstr "šią savaitę"
+
+#: lib/l10n/translator.ex:315
+msgid "this year"
+msgstr "šiemet"
+
+#: lib/l10n/translator.ex:333
+msgid "today"
+msgstr "šiandien"
+
+#: lib/l10n/translator.ex:334
+msgid "tomorrow"
+msgstr "rytoj"
+
+#: lib/l10n/translator.ex:332
+msgid "yesterday"
+msgstr "vakar"
+
+#: lib/l10n/translator.ex:336
+msgid "%{count} day ago"
+msgid_plural "%{count} days ago"
+msgstr[0] "prieš %{count} dieną"
+msgstr[1] "prieš %{count} dienas"
+msgstr[2] "prieš %{count} dienas"
+
+#: lib/l10n/translator.ex:361
+msgid "%{count} hour ago"
+msgid_plural "%{count} hours ago"
+msgstr[0] "prieš %{count} valandą"
+msgstr[1] "prieš %{count} valandas"
+msgstr[2] "prieš %{count} valandas"
+
+#: lib/l10n/translator.ex:364
+msgid "%{count} minute ago"
+msgid_plural "%{count} minutes ago"
+msgstr[0] "prieš %{count} minutę"
+msgstr[1] "prieš %{count} minutes"
+msgstr[2] "prieš %{count} minutes"
+
+#: lib/l10n/translator.ex:324
+msgid "%{count} month ago"
+msgid_plural "%{count} months ago"
+msgstr[0] "prieš %{count} mėnesį"
+msgstr[1] "prieš %{count} menesius"
+msgstr[2] "prieš %{count} mėnesius"
+
+#: lib/l10n/translator.ex:367
+msgid "%{count} second ago"
+msgid_plural "%{count} seconds ago"
+msgstr[0] "prieš %{count} sekundę"
+msgstr[1] "prieš %{count} sekundes"
+msgstr[2] "prieš %{count} sekundes"
+
+#: lib/l10n/translator.ex:330
+msgid "%{count} week ago"
+msgid_plural "%{count} weeks ago"
+msgstr[0] "prieš %{count} savaitę"
+msgstr[1] "prieš %{count} savaites"
+msgstr[2] "prieš %{count} savaites"
+
+#: lib/l10n/translator.ex:318
+msgid "%{count} year ago"
+msgid_plural "%{count} years ago"
+msgstr[0] "prieš %{count} metus"
+msgstr[1] "prieš %{count} metus"
+msgstr[2] "prieš %{count} metų"
+
+#: lib/l10n/translator.ex:335
+msgid "in %{count} day"
+msgid_plural "in %{count} days"
+msgstr[0] "pēc %{count} dieną"
+msgstr[1] "pēc %{count} dienas"
+msgstr[2] "pēc %{count} dienas"
+
+#: lib/l10n/translator.ex:360
+msgid "in %{count} hour"
+msgid_plural "in %{count} hours"
+msgstr[0] "pēc %{count} stundas"
+msgstr[1] "pēc %{count} stundām"
+msgstr[2] "pēc %{count} stundām"
+
+#: lib/l10n/translator.ex:363
+msgid "in %{count} minute"
+msgid_plural "in %{count} minutes"
+msgstr[0] "pēc %{count} minūtes"
+msgstr[1] "pēc %{count} minūtēm"
+msgstr[2] "pēc %{count} minūtēm"
+
+#: lib/l10n/translator.ex:323
+msgid "in %{count} month"
+msgid_plural "in %{count} months"
+msgstr[0] "pēc %{count} mēneša"
+msgstr[1] "pēc %{count} mēnešiem"
+msgstr[2] "pēc %{count} mēnešiem"
+
+#: lib/l10n/translator.ex:366
+msgid "in %{count} second"
+msgid_plural "in %{count} seconds"
+msgstr[0] "pēc %{count} sekundes"
+msgstr[1] "pēc %{count} sekundēm"
+msgstr[2] "pēc %{count} sekundēm"
+
+#: lib/l10n/translator.ex:329
+msgid "in %{count} week"
+msgid_plural "in %{count} weeks"
+msgstr[0] "pēc %{count} nedēļas"
+msgstr[1] "pēc %{count} nedēļām"
+msgstr[2] "pēc %{count} nedēļām"
+
+#: lib/l10n/translator.ex:317
+msgid "in %{count} year"
+msgid_plural "in %{count} years"
+msgstr[0] "pēc %{count} gada"
+msgstr[1] "pēc %{count} gadiem"
+msgstr[2] "pēc %{count} gadiem"
+
+#: lib/l10n/translator.ex:350
+msgid "last friday"
+msgstr "pagāšpiektdien"
+
+#: lib/l10n/translator.ex:338
+msgid "last monday"
+msgstr "pagāšpirmdien"
+
+#: lib/l10n/translator.ex:353
+msgid "last saturday"
+msgstr "pagāšsestdien"
+
+#: lib/l10n/translator.ex:356
+msgid "last sunday"
+msgstr "pagāšsvētdien"
+
+#: lib/l10n/translator.ex:347
+msgid "last thursday"
+msgstr "pagāšceturtdien"
+
+#: lib/l10n/translator.ex:341
+msgid "last tuesday"
+msgstr "pagāšotrdien"
+
+#: lib/l10n/translator.ex:344
+msgid "last wednesday"
+msgstr "pagāštrešdien"
+
+#: lib/l10n/translator.ex:352
+msgid "next friday"
+msgstr "nākampiektdien"
+
+#: lib/l10n/translator.ex:340
+msgid "next monday"
+msgstr "nākampirmdien"
+
+#: lib/l10n/translator.ex:355
+msgid "next saturday"
+msgstr "nākamsestdien"
+
+#: lib/l10n/translator.ex:358
+msgid "next sunday"
+msgstr "nākamsvētdien"
+
+#: lib/l10n/translator.ex:349
+msgid "next thursday"
+msgstr "nākamceturtdien"
+
+#: lib/l10n/translator.ex:343
+msgid "next tuesday"
+msgstr "nākamotrdien"
+
+#: lib/l10n/translator.ex:346
+msgid "next wednesday"
+msgstr "nākamtrešdien"
+
+#: lib/l10n/translator.ex:351
+msgid "this friday"
+msgstr "šopiektdien"
+
+#: lib/l10n/translator.ex:339
+msgid "this monday"
+msgstr "šopirmdien"
+
+#: lib/l10n/translator.ex:354
+msgid "this saturday"
+msgstr "šosestdien"
+
+#: lib/l10n/translator.ex:357
+msgid "this sunday"
+msgstr "šosvētdien"
+
+#: lib/l10n/translator.ex:348
+msgid "this thursday"
+msgstr "šoceturtdien"
+
+#: lib/l10n/translator.ex:342
+msgid "this tuesday"
+msgstr "šootrdien"
+
+#: lib/l10n/translator.ex:345
+msgid "this wednesday"
+msgstr "šotrešdien"
+
+#: lib/l10n/translator.ex:369
+msgid "now"
+msgstr "tagad"

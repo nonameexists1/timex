@@ -12,51 +12,51 @@ msgstr ""
 
 #: lib/l10n/translator.ex:275
 msgid "Fri"
-msgstr "Pk"
+msgstr "Pn"
 
 #: lib/l10n/translator.ex:283
 msgid "Friday"
-msgstr "piektdiena"
+msgstr "penktadienis"
 
 #: lib/l10n/translator.ex:271
 msgid "Mon"
-msgstr "P"
+msgstr "Pr"
 
 #: lib/l10n/translator.ex:279
 msgid "Monday"
-msgstr "pirmdiena"
+msgstr "pirmadienis"
 
 #: lib/l10n/translator.ex:276
 msgid "Sat"
-msgstr "S"
+msgstr "Š"
 
 #: lib/l10n/translator.ex:284
 msgid "Saturday"
-msgstr "sestdiena"
+msgstr "šeštadienis"
 
 #: lib/l10n/translator.ex:277
 msgid "Sun"
-msgstr "Sv"
+msgstr "S"
 
 #: lib/l10n/translator.ex:285
 msgid "Sunday"
-msgstr "svētdiena"
+msgstr "sekmadienis"
 
 #: lib/l10n/translator.ex:274
 msgid "Thu"
-msgstr "C"
+msgstr "K"
 
 #: lib/l10n/translator.ex:282
 msgid "Thursday"
-msgstr "ceturtdiena"
+msgstr "ketvirtadienis"
 
 #: lib/l10n/translator.ex:272
 msgid "Tue"
-msgstr "O"
+msgstr "A"
 
 #: lib/l10n/translator.ex:280
 msgid "Tuesday"
-msgstr "otrdiena"
+msgstr "antradienis"
 
 #: lib/l10n/translator.ex:273
 msgid "Wed"
@@ -64,4 +64,4 @@ msgstr "T"
 
 #: lib/l10n/translator.ex:281
 msgid "Wednesday"
-msgstr "trešdiena"
+msgstr "trečiadienis"
